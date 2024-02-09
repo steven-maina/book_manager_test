@@ -1,4 +1,4 @@
-This is the boon management system as the laravel developer application test.
+This is the book management system as the laravel developer application test.
 after setting the application in your local computer and having created and connected the database, run the below comands to create tables and generate sample data
 php artisan migrate
  php artisan db:seed --class=UsersTableSeeder 
