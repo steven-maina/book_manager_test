@@ -8,7 +8,9 @@ php artisan db:seed --class=BookSeeder
 make sure you run them in the sequence
 after that you can go to this pathe \Sample Laravel projects\books_manager_test\tests\Feature and run the test in  BookControllerTest.php and AuthorControllerTest.php
 If you wish to use Postman or other thirdparty software for api testing, here is the list of apis you can put to test and thier expected outcomes
+
 Authentication
+
 Login
 Endpoint: POST /api/login
 Description: Authenticate a user and generate a token.
